@@ -16,11 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Welcome!
+# Real data, real life.
 
 I am a Data Scientist at University of Washington Information Technology (UW-IT). Prior to UW-IT, I received my Master of Science in Statistics at the University of Washington and Bachelor of Business Administration in Statistics at National Taipei University.
 
-As an experienced Data Scientist, I am adept at exploring statistical models, utilizing data visualization techniques, and implementing machine learning architectures. My demonstrated expertise lies in designing experimentation and developing innovative solutions, including data mining and deep learning for predictive models, and employing large language models to construct recommendation systems. I also possess strong skills in effectively presenting findings to cross-functional teams.
+As an experienced Data Scientist, I am adept at exploring statistical models, utilizing data visualization techniques, and implementing machine learning architectures. My demonstrated expertise lies in designing experimentation and developing innovative solutions in real-world data, including feature engineering and deep learning for statistical predictive models, and employing large language models to construct recommendation systems. I also possess strong skills in effectively presenting findings to cross-functional teams.
 
 <!--# 🔥 News-->
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
