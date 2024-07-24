@@ -26,6 +26,7 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
+<span class='anchor' id='work-experience'></span>
 # Work Experience
 - **Data Scientist**, *03/2024 - Present*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
 - **Data Science Intern**, *03/2024 - Present*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
@@ -40,8 +41,8 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 - *09/2022 - 03/2024*, Master of Science in Statistics, Univeristy of Washington, Seattle, WA, USA. 
 - *08/2018 - 06/2022*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei City, Taiwan.
 
-<span class='anchor' id='publications-and-preprints'></span>
-# Publications
+<span class='anchor' id='publication'></span>
+# Publication
 - Wang, H. L., **Lin, J.**, Chen, Y. H., Chen, Y. S., Lai, W. Y., & Hwang, Y. T. (2023). Estimation of Static Population Parameters Based on Telecommunication Data. *Journal of the Chinese Statistical Association*, 61(2), 152-177.
 
 <!--# 🎖 Honors and Awards-->
@@ -53,3 +54,8 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 
 # CV
 You can find my CV [here](https://drive.google.com/file/d/1Z4ksWF4FGfj6s_8ErFF_mCP_xy_fDsa4/view?usp=sharing).
+
+
+
+
+
