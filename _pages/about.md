@@ -54,5 +54,4 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 
 # CV
 You can find my CV [here](https://drive.google.com/file/d/1Z4ksWF4FGfj6s_8ErFF_mCP_xy_fDsa4/view?usp=sharing).
-&nbsp;
-&nbsp;
+<br/><br/>
