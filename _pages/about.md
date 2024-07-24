@@ -41,7 +41,7 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 - *08/2018 - 06/2022*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei City, Taiwan.
 
 <span class='anchor' id='publications-and-preprints'></span>
-# Publications & Preprints
+# Publications
 - Wang, H. L., **Lin, J.**, Chen, Y. H., Chen, Y. S., Lai, W. Y., & Hwang, Y. T. (2023). Estimation of Static Population Parameters Based on Telecommunication Data. *Journal of the Chinese Statistical Association*, 61(2), 152-177.
 
 <!--# 🎖 Honors and Awards-->
