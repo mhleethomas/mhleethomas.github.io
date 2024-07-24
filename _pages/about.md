@@ -29,7 +29,7 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 <span class='anchor' id='work-experience'></span>
 # Work Experience
 - **Data Scientist**, *03/2024 - Present*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
-- **Data Science Intern**, *03/2024 - Present*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
+- **Data Science Intern**, *07/2023 - 03/2024*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
 - **Data Analyst**, *08/2021 - 07/2022*, [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/), Taipei, Taiwan.
 - **Data Engineering Intern**, *11/2020 - 07/2021*, [Ministry of the Interior](https://segis.moi.gov.tw/STATCloud/Index), Taipei, Taiwan.
 - **Research Assistant**, *09/2019 - 07/2021*, [Research Center on Big Data and Smart City, National Taipei University](http://www.rcbs.ntpu.edu.tw/), New Taipei, Taiwan.
