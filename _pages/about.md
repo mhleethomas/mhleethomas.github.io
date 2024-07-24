@@ -33,9 +33,9 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 - **Data Analyst**, *08/2021 - 07/2022*, [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/), Taipei, Taiwan.
 - **Data Engineering Intern**, *11/2020 - 07/2021*, [Ministry of the Interior](https://segis.moi.gov.tw/STATCloud/Index), Taipei, Taiwan.
 - **Research Assistant**, *09/2019 - 07/2021*, [Research Center on Big Data and Smart City, National Taipei University](http://www.rcbs.ntpu.edu.tw/), New Taipei, Taiwan.
-- **Teaching Assistant of Statistical Packages (SAS)**, *09/2020 - 01/2021*, Department of Statistics, National Taipei University, New Taipei, Taiwan.
-- **Teaching Assistant of Categorical Data Analysis**, *09/2020 - 01/2021*, Department of Statistics, National Taipei University, New Taipei, Taiwan.
-- **Statistics Consultant Intern**, *07/2019 - 08/2019*, [Statistical Consulting Center, Department of Statistics, National Taipei University](https://www.stat.ntpu.edu.tw/page.php?id=158&ids=1), New Taipei, Taiwan.
+- **Teaching Assistant of Statistical Packages (SAS)**, *09/2020 - 01/2021*, National Taipei University, New Taipei, Taiwan.
+- **Teaching Assistant of Categorical Data Analysis**, *09/2020 - 01/2021*, National Taipei University, New Taipei, Taiwan.
+- **Statistics Consultant Intern**, *07/2019 - 08/2019*, [Statistical Consulting Center, National Taipei University](https://www.stat.ntpu.edu.tw/page.php?id=158&ids=1), New Taipei, Taiwan.
 
 # Education
 - *09/2022 - 03/2024*, Master of Science in Statistics, Univeristy of Washington, Seattle, WA, USA. 
