@@ -6,11 +6,14 @@ main:
 #  - title: "News"
 #    url: "/#-news"
 
+  - title: "Work Experience"
+    url: "/#work-experience"
+    
   - title: "Education"
     url: "/#education"
 
-  - title: "Publications & Preprints"
-    url: "/#publications-and-preprints"
+  - title: "Publication"
+    url: "/#publication"
 
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
