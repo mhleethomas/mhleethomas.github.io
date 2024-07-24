@@ -32,14 +32,14 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 - **Data Science Intern**, *03/2024 - Present*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
 - **Data Analyst**, *08/2021 - 07/2022*, [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/), Taipei, Taiwan.
 - **Data Engineering Intern**, *11/2020 - 07/2021*, [Ministry of the Interior](https://segis.moi.gov.tw/STATCloud/Index), Taipei, Taiwan.
-- **Research Assistant**, *09/2019 - 07/2021*, [Research Center on Big Data and Smart City, National Taipei University](http://www.rcbs.ntpu.edu.tw/), New Taipei City, Taiwan.
-- **Teaching Assistant of Statistical Packages (SAS)**, *09/2020 - 01/2021*, Department of Statistics, National Taipei University, New Taipei City, Taiwan.
-- **Teaching Assistant of Categorical Data Analysis**, *09/2020 - 01/2021*, Department of Statistics, National Taipei University, New Taipei City, Taiwan.
-- **Statistics Consultant Intern**, *07/2019 - 08/2019*, [Statistical Consulting Center, Department of Statistics, National Taipei University](https://www.stat.ntpu.edu.tw/page.php?id=158&ids=1), New Taipei City, Taiwan.
+- **Research Assistant**, *09/2019 - 07/2021*, [Research Center on Big Data and Smart City, National Taipei University](http://www.rcbs.ntpu.edu.tw/), New Taipei, Taiwan.
+- **Teaching Assistant of Statistical Packages (SAS)**, *09/2020 - 01/2021*, Department of Statistics, National Taipei University, New Taipei, Taiwan.
+- **Teaching Assistant of Categorical Data Analysis**, *09/2020 - 01/2021*, Department of Statistics, National Taipei University, New Taipei, Taiwan.
+- **Statistics Consultant Intern**, *07/2019 - 08/2019*, [Statistical Consulting Center, Department of Statistics, National Taipei University](https://www.stat.ntpu.edu.tw/page.php?id=158&ids=1), New Taipei, Taiwan.
 
 # Education
 - *09/2022 - 03/2024*, Master of Science in Statistics, Univeristy of Washington, Seattle, WA, USA. 
-- *08/2018 - 06/2022*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei City, Taiwan.
+- *08/2018 - 06/2022*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei, Taiwan.
 
 <span class='anchor' id='publication'></span>
 # Publication
@@ -54,8 +54,4 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 
 # CV
 You can find my CV [here](https://drive.google.com/file/d/1Z4ksWF4FGfj6s_8ErFF_mCP_xy_fDsa4/view?usp=sharing).
-
-
-
-
-
+ <br />
