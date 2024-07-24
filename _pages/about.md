@@ -37,6 +37,7 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 - **Teaching Assistant of Categorical Data Analysis**, *09/2020 - 01/2021*, National Taipei University, New Taipei, Taiwan.
 - **Statistics Consultant Intern**, *07/2019 - 08/2019*, [Statistical Consulting Center, National Taipei University](https://www.stat.ntpu.edu.tw/page.php?id=158&ids=1), New Taipei, Taiwan.
 
+<span class='anchor' id='education'></span>
 # Education
 - *09/2022 - 03/2024*, Master of Science in Statistics, Univeristy of Washington, Seattle, WA, USA. 
 - *08/2018 - 06/2022*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei, Taiwan.
@@ -52,8 +53,9 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 <!--# 💻 Internships-->
 <!--- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 
+<span class='anchor' id='publication'></span>
 # CV
 You can find my CV [here](https://drive.google.com/file/d/1Z4ksWF4FGfj6s_8ErFF_mCP_xy_fDsa4/view?usp=sharing).
 <br/><br/>
 
-<p style='text-align: right; font-size: 0.8em; font-style: italic;'> DESIGNED BY Joyce Lin </p>
+<!--<p style='text-align: right; font-size: 0.8em; font-style: italic;'> DESIGNED BY Joyce Lin </p>-->
