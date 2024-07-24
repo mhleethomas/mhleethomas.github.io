@@ -7,6 +7,11 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+    .extra-space {
+        height: 40px;
+    }
+    </style>
   </head>
 
   <body>
@@ -28,6 +33,8 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <div class="extra-space"></div>
 
   </body>
 </html>
