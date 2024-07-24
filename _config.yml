@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qi Wang (王奇)"
-description              : "PhD student in biostatistics"
-repository               : "qii-wang/qii-wang.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Joyce Lin"
+description              : "Data Scientist at UW-IT"
+repository               : "linjoyce/linjoyce.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qi Wang (王奇)"
-  avatar           : "images/Qi_headshot.jpg"
-  bio              : "Duke University"
-  location         : "Durham, NC, USA"
+  name             : "Joyce Lin"
+  avatar           : "images/0V7A3697.jpg"
+  bio              : "University of Washington Information Technology"
+  location         : "Seattle, WA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7GVRPi4AAAAJ"
-  email            : # "qw131@duke.edu"
+  googlescholar    :
+  email            : "lin.joyce.cy@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qii-wang"
+  github           : # "linjoyce"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "uwwq22"
+  linkedin         : "joyce-lin99"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
