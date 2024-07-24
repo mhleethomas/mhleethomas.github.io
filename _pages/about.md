@@ -56,4 +56,4 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 You can find my CV [here](https://drive.google.com/file/d/1Z4ksWF4FGfj6s_8ErFF_mCP_xy_fDsa4/view?usp=sharing).
 <br/><br/>
 
-<p align="right"><font size=0.8>DESIGNED BY Joyce Lin</font></p>
+<p align="right"><font size=0.8> *DESIGNED BY Joyce Lin* </font></p>
