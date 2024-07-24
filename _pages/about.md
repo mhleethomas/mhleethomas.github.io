@@ -16,40 +16,41 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Hello!
+# Welcome!
 
-I am a PhD student in the Department of Biostatistics and Bioinformatics at Duke University. Prior to Duke, I received my MS in Statistics at the University of Washington and BEng in Industrial Engineering at Tsinghua University.
+I am a Data Scientist at University of Washington Information Technology (UW-IT). Prior to UW-IT, I received my Master of Science in Statistics at the University of Washington and Bachelor of Business Administration in Statistics at National Taipei University.
 
-My primary research interest lies in the design and analysis of clinical trials. I am also interested in intergrating clinical trials with other fields, including causal inference and machine learning, to improve current methods in clinical trial research. I am particularly motivated by the applied areas that significantly affect marginalized communities, such as HIV and social stigma.
-
+As an experienced Data Scientist, I am adept at exploring statistical models, utilizing data visualization techniques, and implementing machine learning architectures. My demonstrated expertise lies in designing experimentation and developing innovative solutions, including data mining and deep learning for predictive models, and employing large language models to construct recommendation systems. I also possess strong skills in effectively presenting findings to cross-functional teams.
 
 <!--# 🔥 News-->
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
+# Work Experience
+- **Data Scientist**, *03/2024 - Present*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
+- **Data Science Intern**, *03/2024 - Present*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
+- **Data Analyst**, *08/2021 - 07/2022*, [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/), Taipei, Taiwan.
+- **Data Engineering Intern**, *11/2020 - 07/2021*, [Ministry of the Interior](https://segis.moi.gov.tw/STATCloud/Index), Taipei, Taiwan.
+- **Research Assistant**, *09/2019 - 07/2021*, [Research Center on Big Data and Smart City, National Taipei University](http://www.rcbs.ntpu.edu.tw/), New Taipei City, Taiwan.
+- **Teaching Assistant of Statistical Packages (SAS)**, *09/2020 - 01/2021*, Department of Statistics, National Taipei University, New Taipei City, Taiwan.
+- **Teaching Assistant of Categorical Data Analysis**, *09/2020 - 01/2021*, Department of Statistics, National Taipei University, New Taipei City, Taiwan.
+- **Statistics Consultant Intern**, *07/2019 - 08/2019*, [Statistical Consulting Center, Department of Statistics, National Taipei University](https://www.stat.ntpu.edu.tw/page.php?id=158&ids=1), New Taipei City, Taiwan.
+
 # Education
-- *08/2024 - 05/2028 (expected)*, PhD in Biostatistics, Duke University, Durham, NC, USA.
-- *09/2022 - 03/2024*, MS in Statistics, Univeristy of Washington, Seattle, WA, USA. 
-- *08/2018 - 06/2022*, BEng in Industrial Engineering, Tsinghua University, Beijing, China.
+- *09/2022 - 03/2024*, Master of Science in Statistics, Univeristy of Washington, Seattle, WA, USA. 
+- *08/2018 - 06/2022*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei City, Taiwan.
 
 <span class='anchor' id='publications-and-preprints'></span>
 # Publications & Preprints
-- **Wang, Q.**, Duerr, A., & Gao, F. (2024+). Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test. *Pre-print available on [arXiv](https://arxiv.org/abs/2311.10848)*.
+- Wang, H. L., **Lin, J.**, Chen, Y. H., Chen, Y. S., Lai, W. Y., & Hwang, Y. T. (2023). Estimation of Static Population Parameters Based on Telecommunication Data. *Journal of the Chinese Statistical Association*, 61(2), 152-177.
 
-- Juraska, M., Early, A. M., ... **Wang, Q.**, ... & Neafsey, D. E. (2024). Genotypic analysis of RTS, S/AS01E malaria vaccine efficacy against parasite infection as a function of dosage regimen and baseline malaria infection status in children aged 5–17 months in Ghana and Kenya: a longitudinal phase 2b randomised controlled trial. *The Lancet Infectious Diseases*.
-
-- Li, Y., Bai, X., **Wang, Q.**, & Ma, Z. (2022). A big data approach to cargo type prediction and its implications for oil trade estimation. *Transportation Research Part E: Logistics and Transportation Review*, 165, 102831.
 
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# Invited Talks
-- *06/2024*, “Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test”, the 2024 ICSA Applied Statistics Symposium, the International Chinese Statistical Association, Nashville, TN, USA.
-- *07/2023*, “Addressing Population Heterogeneity for HIV Incidence Estimation Based on Recency Test”, the HIV Prevention Trials Network faculty meeting, Fred Hutchinson Cancer Center, Seattle, WA, USA.
-
 <!--# 💻 Internships-->
 <!--- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 
 # CV
-You can find my CV [here](https://drive.google.com/file/d/13oLMIuOwYzikRyrmj4YYgWGA9mlAUoKJ/view?usp=sharing).
+You can find my CV [here](https://drive.google.com/file/d/1Z4ksWF4FGfj6s_8ErFF_mCP_xy_fDsa4/view?usp=sharing).
