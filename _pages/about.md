@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Real data, real life.
+# Real Data, Real Life!
 
 I am a Data Scientist at University of Washington Information Technology (UW-IT). Prior to UW-IT, I received my Master of Science in Statistics at the University of Washington and Bachelor of Business Administration in Statistics at National Taipei University.
 
