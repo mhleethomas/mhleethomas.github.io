@@ -53,9 +53,9 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 <!--# 💻 Internships-->
 <!--- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 
-<span class='anchor' id='publication'></span>
-# CV
-You can find my CV [here](https://drive.google.com/file/d/1Z4ksWF4FGfj6s_8ErFF_mCP_xy_fDsa4/view?usp=sharing).
+<span class='anchor' id='resume'></span>
+# Resume
+You can find my resume [here](https://drive.google.com/file/d/1Z4ksWF4FGfj6s_8ErFF_mCP_xy_fDsa4/view?usp=sharing).
 <br/><br/>
 
 <!--<p style='text-align: right; font-size: 0.8em; font-style: italic;'> DESIGNED BY Joyce Lin </p>-->
