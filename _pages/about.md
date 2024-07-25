@@ -40,7 +40,7 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 <span class='anchor' id='education'></span>
 # Education
 - *09/2022 - 03/2024*, Master of Science in Statistics, Univeristy of Washington, Seattle, WA, USA. 
-- *08/2018 - 06/2022*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei, Taiwan.
+- *09/2017 - 06/2021*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei, Taiwan.
 
 <span class='anchor' id='publication'></span>
 # Publication
