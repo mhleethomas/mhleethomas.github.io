@@ -44,7 +44,7 @@ As an experienced Data Scientist, I am adept at exploring statistical models, ut
 
 <span class='anchor' id='publication'></span>
 # Publication
-- Wang, H. L., **Lin, J.**, Chen, Y. H., Chen, Y. S., Lai, W. Y., & Hwang, Y. T. (2023). Estimation of Static Population Parameters Based on Telecommunication Data. *Journal of the Chinese Statistical Association*, 61(2), 152-177.
+- Wang, H. L., **Lin, J.**, Chen, Y. H., Chen, Y. S., Lai, W. Y., & Hwang, Y. T. (2023). [Estimation of Static Population Parameters Based on Telecommunication Data](https://www.airitilibrary.com/Article/Detail?DocID=05296528-N202306020008-00003). *Journal of the Chinese Statistical Association*, 61(2), 152-177.
 
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
