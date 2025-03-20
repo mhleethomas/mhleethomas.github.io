@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Thomas Lee"
-  avatar           : "images/ThomasLeePFP.JPG"
+  avatar           : "images/ThomasLeePFP_square.JPG"
   bio              : "Northeastern University Information Systems"
   location         : "Seattle, WA, USA"
   employer         :
