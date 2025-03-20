@@ -32,7 +32,7 @@ Outside of work, you’ll probably find me exploring new Python libraries, learn
 
 <span class='anchor' id='work-experience'></span>
 # Work Experience
-- **Process Engineer**, *May 2022 - Sept 2023*, [Kinsus Interconnect Technology Corp.](https://www.kinsus.com.tw/), Hsinchu, Taiwan.
+- **Process Engineer**, [Kinsus Interconnect Technology Corp.](https://www.kinsus.com.tw/), Hsinchu, Taiwan, *May 2022 - Sept 2023*
   - Conducted statistical analysis and Design of Experiments (DOE) to optimize production processes, achieving a 100% reduction in defect rate and enabling mass production, which earned the Star Award for excellence.
   - Developed and implemented automated measurement systems integrated with Statistical Process Control (SPC) databases, improving measurement accuracy by 20-fold and capacity by 14-fold.
   - Leveraged ETL techniques (data extraction, transformation, and validation) to preprocess accuracy metrics such as Gauge Repeatability and Reproducibility (GRR), significantly reducing measurement errors.
@@ -40,9 +40,9 @@ Outside of work, you’ll probably find me exploring new Python libraries, learn
 
 <span class='anchor' id='education'></span>
 # Education
-- *Expected Jun 2026*, Master of Information Systems, Northeastern University, Seattle, WA, USA.
+- **Master of Information Systems**, [Northeastern University](https://seattle.northeastern.edu), Seattle, WA, USA, *Sept 2024 -Expected Jun 2026*
   - Relevant Coursework: Data Science Engineering, Database Design, Program Structure and Algorithms.
-- *Sept 2017 - Jun 2021*, Bachelor of Applied Chemistry, National Yang Ming Chiao Tung University, Hsinchu, Taiwan.
+- **Bachelor of Applied Chemistry**, [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/en/index), Hsinchu, Taiwan, *Sept 2017 - Jun 2021* 
   - Relevant Coursework: Analytical Chemistry, Integrated Chemistry Laboratory, Calculus.
 
 <!-- <span class='anchor' id='publication'></span>
