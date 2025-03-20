@@ -16,11 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Real Data, Real Life.
+# Data-Driven, Impact-Oriented.
 
-I am a Data Scientist at University of Washington Information Technology (UW-IT). Prior to UW-IT, I received my Master of Science in Statistics at the University of Washington and Bachelor of Business Administration in Statistics at National Taipei University.
+Hi, I’m Thomas — a curious problem solver with a background in both chemistry and data science. I started my journey in the lab, where precision and attention to detail shaped the way I see the world. Over time, that same mindset naturally pulled me toward data — discovering patterns, solving complex problems, and turning messy numbers into meaningful insights.
 
-As an experienced Data Scientist, I am adept at exploring statistical models, utilizing data visualization techniques, and implementing machine learning architectures. My demonstrated expertise lies in designing experimentation and developing innovative solutions in real-world data, including feature engineering and deep learning for timely predictive models, and employing large language models to construct recommendation systems. I also possess strong skills in effectively presenting findings to cross-functional teams.
+Right now, I’m pursuing my Master’s in Information Systems at Northeastern University. Along the way, I’ve dived deep into machine learning, data engineering, and statistical analysis — skills I love applying to real-world challenges. Whether it’s detecting cracks in concrete with deep learning models or predicting housing prices with spatial data, I’m always drawn to projects that bridge data and impact.
+
+Before grad school, I worked as a Process Engineer in the semiconductor industry. That’s where I truly learned the power of data-driven decisions — optimizing processes, automating measurements, and seeing firsthand how numbers improve production quality (and even win you awards!).
+
+Outside of work, you’ll probably find me exploring new Python libraries, learning about the latest AI trends, or enjoying a good cup of coffee while diving into data visualizations. I’m passionate about continuous learning, connecting ideas across disciplines, and finding ways data can make life — and business — a little smarter.
 
 <!--# 🔥 News-->
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->

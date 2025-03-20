@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Joyce Lin"
-description              : "Data Scientist at UW-IT"
-repository               : "linjoyce/linjoyce.github.io"
+title                    : "Thomas Lee"
+description              : "Northeastern University | Data Science | Machine Learning"
+repository               : "mhleethomas/mhleethomas.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Joyce Lin"
-  avatar           : "images/0V7A3697.jpg"
-  bio              : "University of Washington Information Technology"
+  name             : "Thomas Lee"
+  avatar           : "images/ThomasLeePFP.JPG"
+  bio              : "Northeastern University Information Systems"
   location         : "Seattle, WA, USA"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "lin.joyce.cy@gmail.com"
+  email            : "mhleethomas.gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "linjoyce"
+  github           : "mhleethomas"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "joyce-lin99"
+  linkedin         : "mhleethomas"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
