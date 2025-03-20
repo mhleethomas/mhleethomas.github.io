@@ -32,23 +32,22 @@ Outside of work, you’ll probably find me exploring new Python libraries, learn
 
 <span class='anchor' id='work-experience'></span>
 # Work Experience
-- **Data Scientist**, *03/2024 - Present*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
-- **Data Science Intern**, *07/2023 - 03/2024*, [University of Washington Information Technology](https://itconnect.uw.edu/it-at-the-uw/about-uwit/), Seattle, WA, USA.
-- **Data Analyst**, *08/2021 - 07/2022*, [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/), Taipei, Taiwan.
-- **Data Engineering Intern**, *11/2020 - 07/2021*, [Ministry of the Interior](https://segis.moi.gov.tw/STATCloud/Index), Taipei, Taiwan.
-- **Research Assistant**, *09/2019 - 07/2021*, [Research Center on Big Data and Smart City, National Taipei University](http://www.rcbs.ntpu.edu.tw/), New Taipei, Taiwan.
-- **Teaching Assistant of Statistical Packages (SAS)**, *09/2020 - 01/2021*, National Taipei University, New Taipei, Taiwan.
-- **Teaching Assistant of Categorical Data Analysis**, *09/2020 - 01/2021*, National Taipei University, New Taipei, Taiwan.
-- **Statistics Consultant Intern**, *07/2019 - 08/2019*, [Statistical Consulting Center, National Taipei University](https://www.stat.ntpu.edu.tw/page.php?id=158&ids=1), New Taipei, Taiwan.
+- **Process Engineer**, *May 2022 - Sept 2023*, [Kinsus Interconnect Technology Corp.](https://www.kinsus.com.tw/), Hsinchu, Taiwan.
+  - Conducted statistical analysis and Design of Experiments (DOE) to optimize production processes, achieving a 100% reduction in defect rate and enabling mass production, which earned the Star Award for excellence.
+  - Developed and implemented automated measurement systems integrated with Statistical Process Control (SPC) databases, improving measurement accuracy by 20-fold and capacity by 14-fold.
+  - Leveraged ETL techniques (data extraction, transformation, and validation) to preprocess accuracy metrics such as Gauge Repeatability and Reproducibility (GRR), significantly reducing measurement errors.
+  - Applied Excel Macros and VBA scripting to optimize process parameters, enhancing sorting accuracy and improving defect detection capabilities in production workflows.
 
 <span class='anchor' id='education'></span>
 # Education
-- *09/2022 - 03/2024*, Master of Science in Statistics, Univeristy of Washington, Seattle, WA, USA. 
-- *09/2017 - 06/2021*, Bachelor of Business Administration in Statistics, National Taipei University, New Taipei, Taiwan.
+- *Expected Jun 2026*, Master of Information Systems, Northeastern University, Seattle, WA, USA.
+  - Relevant Coursework: Data Science Engineering, Database Design, Program Structure and Algorithms.
+- *Sept 2017 - Jun 2021*, Bachelor of Applied Chemistry, National Yang Ming Chiao Tung University, Hsinchu, Taiwan.
+  - Relevant Coursework: Analytical Chemistry, Integrated Chemistry Laboratory, Calculus.
 
-<span class='anchor' id='publication'></span>
+<!-- <span class='anchor' id='publication'></span>
 # Publication
-- Wang, H. L., **Lin, J.**, Chen, Y. H., Chen, Y. S., Lai, W. Y., & Hwang, Y. T. (2023). [Estimation of Static Population Parameters Based on Telecommunication Data](https://www.airitilibrary.com/Article/Detail?DocID=05296528-N202306020008-00003). *Journal of the Chinese Statistical Association*, 61(2), 152-177.
+- Wang, H. L., **Lin, J.**, Chen, Y. H., Chen, Y. S., Lai, W. Y., & Hwang, Y. T. (2023). [Estimation of Static Population Parameters Based on Telecommunication Data](https://www.airitilibrary.com/Article/Detail?DocID=05296528-N202306020008-00003). *Journal of the Chinese Statistical Association*, 61(2), 152-177. -->
 
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
