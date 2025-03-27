@@ -58,7 +58,7 @@ Outside of work, you’ll probably find me exploring new Python libraries, learn
 
 <span class='anchor' id='resume'></span>
 # Resume
-You can find my resume [here](https://drive.google.com/file/d/1CjlJ-RnzqUv09I84pUbWY3sUGQwNDxNc/view?usp=sharing).
+You can find my resume [here](./assets/ThomasLeeResume.pdf).
 <br/><br/>
 
 <!--<p style='text-align: right; font-size: 0.8em; font-style: italic;'> DESIGNED BY Joyce Lin </p>-->

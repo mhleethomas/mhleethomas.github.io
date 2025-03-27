@@ -1,0 +1,19 @@
+.
+├── Gemfile
+├── Gemfile.lock
+├── LICENSE
+├── README.md
+├── _config.yml
+├── _data
+├── _includes
+├── _layouts
+├── _pages
+├── _sass
+├── assets
+├── docs
+├── folder_structure.txt
+├── google_scholar_crawler
+├── images
+└── run_server.sh
+
+10 directories, 7 files
