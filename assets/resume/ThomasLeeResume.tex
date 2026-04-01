@@ -1,0 +1,126 @@
+%-------------------------
+% Thomas Lee — Resume
+% LaTeX source — compile with: pdflatex ThomasLeeResume.tex
+%-------------------------
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage[top=0.6in, bottom=0.6in, left=0.75in, right=0.75in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{parskip}
+
+% Hyperlink styling
+\hypersetup{
+  colorlinks=true,
+  urlcolor=black,
+  linkcolor=black
+}
+
+% Section formatting
+\titleformat{\section}
+  {\bfseries\large}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+\titlespacing{\section}{0pt}{6pt}{4pt}
+
+% No paragraph indent
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% Bullet list settings
+\setlist[itemize]{leftmargin=1.5em, itemsep=1pt, topsep=2pt, parsep=0pt}
+
+%-------------------------
+\begin{document}
+\pagestyle{empty}
+
+%--- Header ---%
+\begin{center}
+  {\LARGE\bfseries Thomas Lee}\\[4pt]
+  Seattle, WA \ $|$ \ (206) 493-3040 \ $|$ \ \href{mailto:mhleethomas@gmail.com}{mhleethomas@gmail.com}\\[2pt]
+  \href{https://linkedin.com/in/mhleethomas}{linkedin.com/in/mhleethomas} \ $|$ \
+  \href{https://github.com/mhleethomas}{github.com/mhleethomas} \ $|$ \
+  \href{https://mhleethomas.github.io}{mhleethomas.github.io}
+\end{center}
+
+%--- Summary ---%
+\section{Summary}
+Analytical and detail-oriented data professional with hands-on experience in ETL, SQL, EDA, and statistical
+modeling. Skilled in optimizing workflows, uncovering insights, and building scalable data solutions that
+combine engineering precision with analytical depth to support decision-making and innovation.
+
+%--- Skills ---%
+\section{Skills}
+\begin{itemize}
+  \item \textbf{Programming \& Scripting:} Python, SQL, Java, JavaScript, Git, GitHub, Jupyter Notebooks
+  \item \textbf{Data Engineering \& Databases:} ETL Pipelines, PostgreSQL, SQL Server, MongoDB Atlas, DBeaver
+  \item \textbf{Data Analysis \& Modeling:} Pandas, NumPy, Scikit-learn, Statsmodels, XGBoost
+  \item \textbf{Data Visualization \& Reporting:} Excel, Matplotlib, Seaborn, Tableau, JMP
+\end{itemize}
+
+%--- Education ---%
+\section{Education}
+
+\textbf{Northeastern University} \hfill \textbf{Expected May 2026}\\
+\textit{Master of Science in Information Systems} \hfill Seattle, WA
+\begin{itemize}
+  \item Relevant Coursework: Data Science Engineering, Database Design, Program Structure and Algorithms
+\end{itemize}
+
+\medskip
+
+\textbf{National Yang Ming Chiao Tung University} \hfill \textbf{Sept 2017 -- Jun 2021}\\
+\textit{Bachelor of Science in Applied Chemistry} \hfill Hsinchu, Taiwan
+\begin{itemize}
+  \item Relevant Coursework: Analytical Chemistry, Integrated Chemistry Laboratory, Calculus
+\end{itemize}
+
+%--- Work Experience ---%
+\section{Work Experience}
+
+\textbf{LITEON Technology} \hfill \textbf{Jun 2025 -- Aug 2025}\\
+\textit{AI \& Data Application Intern} \hfill Taipei, Taiwan
+\begin{itemize}
+  \item Built an incident-driven ETL workflow with n8n, Azure OpenAI, and JavaScript, deployed as an AI agent
+        for marketing intelligence, transforming 100+ page industry reports into interactive knowledge assets
+        on Microsoft Teams, reducing manual processing effort by 93\%
+  \item Scaled AI capabilities across the entire organization by training 100+ managers from every business unit
+        to independently build n8n workflows, resulting in 300+ autonomous workflows deployed company-wide
+\end{itemize}
+
+\medskip
+
+\textbf{Kinsus Interconnect Technology Corp.} \hfill \textbf{May 2022 -- Sept 2023}\\
+\textit{Process Engineer} \hfill Hsinchu, Taiwan
+\begin{itemize}
+  \item Built automated measurement systems using ETL pipelines integrated with SPC databases, boosting
+        measurement accuracy by 20$\times$ and throughput by 14$\times$
+  \item Applied DOE and ANOVA to optimize production parameters and eliminate critical defects, achieving a
+        100\% failure rate reduction and enabling mass production, recognized with the Star Award
+  \item Pioneered the company's first advanced inspection process with data cleaning, manipulation, and GRR
+        analysis, improving quality control across 40\%+ of output through actionable reporting
+  \item Streamlined end-lot workflow with Excel VBA, reducing manual effort by 16\% and enhancing defect
+        classification and consistency in final output
+\end{itemize}
+
+%--- Projects ---%
+\section{Projects}
+
+\textbf{Music Recommendation Database} \hfill \textbf{Jan 2025 -- Apr 2025}\\
+\textit{Database Design, SQL Server, DBeaver, Lucidchart, Tableau}
+\begin{itemize}
+  \item Designed and built a normalized relational database (3NF) with 13 entities and 6K+ songs, implementing
+        column-level encryption, SQL triggers, and views for secure, scalable data management
+  \item Developed complex SQL queries and Tableau dashboards to analyze user behavior, playlist trends, and
+        top-performing songs, delivering insights to support data-driven recommendation strategies
+\end{itemize}
+
+\end{document}
