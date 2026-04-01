@@ -1,3 +1,11 @@
 _site/
 push.sh
 .DS_Store
+
+# LaTeX build artifacts
+assets/resume/*.aux
+assets/resume/*.dvi
+assets/resume/*.fdb_latexmk
+assets/resume/*.fls
+assets/resume/*.log
+assets/resume/*.out
