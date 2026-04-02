@@ -29,11 +29,11 @@ Outside of work, you'll probably find me exploring new Python libraries, learnin
 <span class='anchor' id='work-experience'></span>
 # Work Experience
 
-- **AI & Data Application Intern**, [LITEON Technology](https://www.liteon.com/en-us/index), Taipei, Taiwan, *Jun 2025 - Aug 2025*
+- **AI & Data Application Intern**, [LITEON Technology](https://www.liteon.com/en), Taipei, Taiwan, *Jun 2025 - Aug 2025*
   - Built an incident-driven ETL workflow with n8n, Azure OpenAI, and JavaScript, deployed as an AI agent for marketing intelligence, transforming 100+ page industry reports into interactive knowledge assets on Microsoft Teams, reducing manual processing effort by 93%
   - Scaled AI capabilities across the entire organization by training 100+ managers from every business unit to independently build n8n workflows, resulting in 300+ autonomous workflows deployed company-wide
 
-- **Process Engineer**, [Kinsus Interconnect Technology Corp.](https://www.kinsus.com.tw/), Hsinchu, Taiwan, *May 2022 - Sept 2023*
+- **Process Engineer**, [Kinsus Interconnect Technology Corp.](https://www.kinsus.com.tw/en-global/Home/Index), Hsinchu, Taiwan, *May 2022 - Sept 2023*
   - Built automated measurement systems using ETL pipelines integrated with SPC databases, boosting measurement accuracy by 20× and throughput by 14×
   - Applied DOE and ANOVA to optimize production parameters and eliminate critical defects, achieving a 100% failure rate reduction and enabling mass production, recognized with the Star Award
   - Pioneered the company's first advanced inspection process with data cleaning, manipulation, and GRR analysis, improving quality control across 40%+ of output through actionable reporting
@@ -49,10 +49,30 @@ Outside of work, you'll probably find me exploring new Python libraries, learnin
 <span class='anchor' id='projects'></span>
 # Projects
 
+- **FutureFlow — Ocean Current Forecasting**, *Sept 2025 - Dec 2025*
+  - *Deep Learning, Python, TensorFlow, Keras, CNN–LSTM, xarray*
+  - Built and trained a spatiotemporal deep learning model combining CNN and LSTM to forecast ocean surface currents from 7 years of multi-source satellite data
+  - Engineered a reproducible NetCDF-based data pipeline with masking, normalization, and leakage-safe temporal splits, achieving an R² of 0.91 with a compact model of 46,354 trainable parameters
+
+- **Surface Crack Detection**, *Sept 2024 - Nov 2024*
+  - *Deep Learning, Python, TensorFlow, Keras, OpenCV*
+  - Built and trained a binary image classification CNN on 40K+ concrete surface images, achieving 99.89% accuracy through data augmentation and preprocessing
+  - Optimized model performance via hyperparameter tuning, dropout regularization, and evaluation across validation sets, producing a robust model with 1M+ parameters and minimal overfitting
+
+- **House Price Prediction**, *Sept 2024 - Dec 2024*
+  - *Linear Regression, Python, Scikit-learn, XGBoost, GeoPandas, Seaborn*
+  - Engineered spatial and numerical features from housing data and trained regression models, achieving an R² of 0.91
+  - Mitigated overfitting through cross-validation, log transformation, and feature selection, enhancing generalizability and interpretability for real-world pricing scenarios
+
 - **Music Recommendation Database**, *Jan 2025 - Apr 2025*
   - *Database Design, SQL Server, DBeaver, Lucidchart, Tableau*
   - Designed and built a normalized relational database (3NF) with 13 entities and 6K+ songs, implementing column-level encryption, SQL triggers, and views for secure, scalable data management
   - Developed complex SQL queries and Tableau dashboards to analyze user behavior, playlist trends, and top-performing songs, delivering insights to support data-driven recommendation strategies
+
+- **Exploratory Analysis of Job Market**, *Jan 2025 - Apr 2025*
+  - *PostgreSQL, Python, Visual Studio Code, GitHub Copilot*
+  - Conducted EDA on 787K+ job postings by querying multi-source CSV datasets with PostgreSQL, identifying trends in salary benchmarks and technical skill requirements
+  - Built advanced SQL workflows with CTEs, multi-table joins, and aggregations to support career planning for job seekers and curriculum development for educators
 
 <span class='anchor' id='resume'></span>
 # Resume
