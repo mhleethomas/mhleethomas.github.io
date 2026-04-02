@@ -2,6 +2,9 @@ _site/
 push.sh
 .DS_Store
 
+# Local working files (resume drafts, PDFs, notes) — not published
+_local/
+
 # LaTeX build artifacts
 assets/resume/*.aux
 assets/resume/*.dvi
